@@ -1,0 +1,15 @@
+1
+13 2 2
+started b1 600
+finished a 55
+ordered b1 biba 100 7 44
+arrived b1 580
+finished b1 3300
+ordered k kuka 200 3 15
+arrived k 450
+started k 462
+ordered b2 biba 9500 2 48
+arrived b2 9580
+finished k 1820
+started b2 9642
+finished b2 12730
